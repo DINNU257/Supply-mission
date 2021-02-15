@@ -73,7 +73,6 @@ function draw() {
  
   packageSprite.x= packageBody.position.x 
   packageSprite.y= packageBody.position.y 
-  Matter.Body.setStatic(body  , Name>  false);
   drawSprites();
   
   
